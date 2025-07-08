@@ -20,7 +20,7 @@ I'm excited to share my recent Python project – a **Temperature Toolkit** deve
 - CLI (Command-Line Interface) Design
 
 ## 📁 Project Structure
-
+```text
 Temperature-Toolkit/
 │
 ├── main.py                                   # Main script to run the CLI Temperature Toolkit
