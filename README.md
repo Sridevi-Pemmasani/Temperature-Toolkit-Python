@@ -41,9 +41,9 @@ Temperature-Toolkit/
 - **main.py**: Entry point for the CLI program. Displays the menu and handles user input.
 - **Test-Temperature-Toolkit.ipynb**: Jupyter notebook to test and demonstrate toolkit functionality.
 - **temperature_toolkit**
-    **__init__.py**: Initializes the package so it can be imported as a module.
-    **analytics.py**: Analyzes temperature records (e.g., averages, trends, spikes).
-    **converter.py**: Handles temperature unit conversion logic.
-`temperature_toolkit/crud_temperature_records.py`: Manages create, read, update, and delete (CRUD) operations.
-`temperature_toolkit/generalutils.py`: Utility functions shared across different modules.
-`temperature_toolkit/record.py`: Defines the structure of a temperature record using a class.
+    - **__init__.py**: Initializes the package so it can be imported as a module.
+    - **analytics.py**: Analyzes temperature records (e.g., averages, trends, spikes).
+    - **converter.py**: Handles temperature unit conversion logic.
+    - **crud_temperature_records.py**: Manages create, read, update, and delete (CRUD) operations.
+    - **generalutils.py**: Utility functions shared across different modules.
+    - **record.py**: Defines the structure of a temperature record using a class.
