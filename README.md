@@ -68,9 +68,9 @@ Choose an operation:
 🖊️ Just type the number for the desired operation and follow the prompts!
 
 ## 📸 **Feature Demonstration**
-## 1️⃣ Create New Temperature Record
+- 1️⃣ Create New Temperature Record
 
-![Create New Temperature Record](Images/Option-1-Create a new Temperature Record.png)
+![Create New Temperature Record](Images/Option-1-CreateNewTemperatureRecord.png)
 
 ---
 
