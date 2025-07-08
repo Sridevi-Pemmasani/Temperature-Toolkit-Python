@@ -59,7 +59,7 @@ Temperature-Toolkit/
 🖊️ Just type the number for the desired operation and follow the prompts!
 
 ## 📸 **Feature Demonstration**
-1️⃣ Create New Temperature Record
+1️⃣ **Create New Temperature Record**
 
 **Record-1:**
 ![Create New Temperature Record](Images/Option-1-CreateNewTemperatureRecord.png)
@@ -72,13 +72,13 @@ Temperature-Toolkit/
 
 ---
 
-2️⃣ View All Temperature Records
+2️⃣ **View All Temperature Records**
 
 ![View All Records](Images/Option-2-ViewAllTemperatureRecords.png)
 
 ---
 
-3️⃣ Modify Existing Temperature Record
+3️⃣ **Modify Existing Temperature Record**
 **Select record for updation and modify record**
 ![Modify Record](Images/Option-3-ModifyExistingTemperatureRecord.png)
 
@@ -87,64 +87,69 @@ Temperature-Toolkit/
 
 ---
 
-4️⃣ Delete Existing Temperature Record
+4️⃣ **Delete Existing Temperature Record**
 
 ![Delete Record](Images/Option-4-DeleteExistingTemperatureRecord-Result.png)
 
 ---
 
-5️⃣ Convert Temperatures of Selected Day
+5️⃣ **Convert Temperatures of Selected Day**
 
 ![Convert Temperature](Images/Option-5-ConvertTemperaturesScaleOfSelectedDay.png)
 
 ---
 
-6️⃣ Show Temperature Summary - All Days
+6️⃣ **Show Temperature Summary - All Days**
 
 ![Summary Report](Images/Option-6-ShowTemeraturesSummary-AllDays-Result.png)
 
 ---
 
-7️⃣ Check If Temperatures Are Above a Threshold (Selected Day) 
+7️⃣ **Check If Temperatures Are Above a Threshold (Selected Day)**
 
 ![Check Threshold](Images/Option-7-CheckTemperaturesAboveaGivenThreshold.png)
 
 ----
 
-8️⃣ Average Temperature - All Days  
+8️⃣ **Average Temperature - All Days**
+
 ![Average Temperature](Images/Option-8-AverageTemperature-AllDays.png)
 
 ---
 
-9️⃣ Show Hottest Day  
+9️⃣ **Show Hottest Day**
+
 ![Hottest Day](Images/Option-9-ShowHottestDay.png)
 
 ---
 
-🔟 Extreme Days Above a Threshold  
+🔟 **Extreme Days Above a Threshold**
+
 ![Extreme Days](Images/Option-10-ShowDayswithRecordedTemperatureAboveaThreshold.png)
 
 ---
 
-1️⃣1️⃣ Show Temperature Ranges - All Days  
+1️⃣1️⃣ **Show Temperature Ranges - All Days** 
+
 ![Temperature Ranges](Images/Option-11-ShowTemperatureRanges-AllDays.png)
 
 ---
 
-1️⃣2️⃣ Show Temperature Trend  
+1️⃣2️⃣ **Show Temperature Trend**
+
 ![Temperature Trend](Images/Option-12-ShowTemperatureTrend.png)
 
 ---
 
-1️⃣3️⃣ Detect Spike  
+1️⃣3️⃣ **Detect Spike**
+
 ![Detect Spike](Images/Option-13-DetectSpike.png)
 
 ---
 
-1️⃣4️⃣ Exit  
+1️⃣4️⃣ **Exit** 
+
 ![Exit](Images/Option-14-Exit.png)
-
-
 
 ## ⚙️ **How to Run Locally**
 1. **Clone the repository:**
