@@ -48,11 +48,11 @@ Temperature-Toolkit/
     - **generalutils.py**: Utility functions shared across different modules.
     - **record.py**: Defines the structure of a temperature record using a class.
 ## ▶️ **Sample Usage**
-- Run main.py, you will see a menu-driven interface like:
+- **Run main.py**
 
 ![Run main](Images/RunTemperatureToolkit-1.png)
 
-- Menu Options avaiable:
+- **Menu-driven interface will be displayed like:**
 
 ![Run main](Images/TemperatureToolkit-MenuOptions.png)
 
