@@ -35,12 +35,19 @@ Temperature-Toolkit/
 │   ├── generalutils.py                       # Shared utility/helper functions
 │   ├── record.py                             # Defines the Temperature Record class
 
-▶️ Sample Usage
-After running main.py, you will see a menu like:
+## 📄 File Descriptions
+File	Description
+main.py	Entry point for the CLI program. Displays the menu and handles user input.
+Test-Temperature-Toolkit.ipynb	Jupyter notebook to test and demonstrate toolkit functionality.
+temperature_toolkit/__init__.py	Initializes the package.
+temperature_toolkit/analytics.py	Analyzes temperature records (averages, trends, spikes).
+temperature_toolkit/converter.py	Contains temperature unit conversion logic.
+temperature_toolkit/crud_temperature_records.py	Manages create, read, update, and delete operations.
+temperature_toolkit/generalutils.py	Utility functions used across different modules.
+temperature_toolkit/record.py	Defines the structure of a temperature record using a class.
 
-text
-Copy
-Edit
+## ▶️ Sample Usage
+After running main.py, you will see a menu like:
 Choose an operation:
 1. Create New Temperature Record
 2. View All Temperature Records
