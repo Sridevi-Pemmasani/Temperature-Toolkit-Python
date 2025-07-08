@@ -1,5 +1,3 @@
-# Temperature-Toolkit-Python
-Temperature-Toolkit-Python
 # 🚀 Temperature Toolkit – Python Project
 
 I'm excited to share my recent Python project – a **Temperature Toolkit** developed using core Python! 🌡️📊
