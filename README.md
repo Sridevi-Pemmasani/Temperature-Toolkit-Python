@@ -69,11 +69,14 @@ Choose an operation:
 
 ## 📸 **Feature Demonstration**
 1️⃣ Create New Temperature Record
+
 **Record-1:**
 ![Create New Temperature Record](Images/Option-1-CreateNewTemperatureRecord.png)
+
 **Record-2:**
 ![Create New Temperature Record-2](Images/Option-1-CreateNewTemperatureRecord-2.png)
-**esult Post Temperature Record Creation:**
+
+**Result Post Temperature Record Creation:**
 ![Result Post Temperature Record Creation](Images/Option-1-CreateNewTemperatureRecord-Result.png)
 
 ---
