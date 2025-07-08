@@ -68,21 +68,27 @@ Choose an operation:
 🖊️ Just type the number for the desired operation and follow the prompts!
 
 ## 📸 **Feature Demonstration**
-- 1️⃣ Create New Temperature Record
+1️⃣ Create New Temperature Record
 
 ![Create New Temperature Record](Images/Option-1-CreateNewTemperatureRecord.png)
 
----
+![Create New Temperature Record-2](Images/Option-1-CreateNewTemperatureRecord-2.png)
 
-## 2️⃣ View All Temperature Records
-
-![View All Records](Images/view_records.png)
+![Result Post Temperature Record Creation](Images/Option-1-CreateNewTemperatureRecord-Result.png)
 
 ---
 
-## 3️⃣ Modify Existing Temperature Record
+2️⃣ View All Temperature Records
 
-![Modify Record](Images/modify_record.png)
+![View All Records](Images/Option-2-ViewAllTemperatureRecords.png)
+
+---
+
+3️⃣ Modify Existing Temperature Record
+
+![Modify Record](Images/Option-3-ModifyExistingTemperatureRecord.png)
+
+![Result Post Modification](Images/Option-3-ModifyExistingTemperatureRecord-Result.png)
 
 ---
 
