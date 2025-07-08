@@ -48,22 +48,13 @@ Temperature-Toolkit/
     - **generalutils.py**: Utility functions shared across different modules.
     - **record.py**: Defines the structure of a temperature record using a class.
 ## ▶️ **Sample Usage**
-After running main.py, you will see a menu-driven interface like:
-Choose an operation:
-1. Create New Temperature Record
-2. View All Temperature Records
-3. Modify Existing Temperature Record
-4. Delete Existing Temperature Record
-5. Convert Temperatures to different scale of Selected Day
-6. Show Temperature Summary - All Days
-7. Check If Temperatures Are Above a Threshold (Selected Day)
-8. Average Temperature - All Days
-9. Show Hottest Day
-10. Extreme Days Above a Threshold
-11. Show Temperature Ranges - All Days
-12. Show Temperature Trend
-13. Detect Spike
-14. Exit
+- Run main.py, you will see a menu-driven interface like:
+
+![Run main](Images/RunTemperatureToolkit-1.png)
+
+- Menu Options avaiable:
+
+![Run main](Images/TemperatureToolkit-MenuOptions.png)
 
 🖊️ Just type the number for the desired operation and follow the prompts!
 
@@ -73,11 +64,11 @@ Choose an operation:
 **Record-1:**
 ![Create New Temperature Record](Images/Option-1-CreateNewTemperatureRecord.png)
 
-**Record-2:**
-![Create New Temperature Record-2](Images/Option-1-CreateNewTemperatureRecord-2.png)
-
 **Result Post Temperature Record Creation:**
 ![Result Post Temperature Record Creation](Images/Option-1-CreateNewTemperatureRecord-Result.png)
+
+**Record-2:**
+![Create New Temperature Record-2](Images/Option-1-CreateNewTemperatureRecord-2.png)
 
 ---
 
@@ -88,28 +79,71 @@ Choose an operation:
 ---
 
 3️⃣ Modify Existing Temperature Record
-
+**Select record for updation and modify record**
 ![Modify Record](Images/Option-3-ModifyExistingTemperatureRecord.png)
 
+**Result Post Modification**
 ![Result Post Modification](Images/Option-3-ModifyExistingTemperatureRecord-Result.png)
 
 ---
 
-## 5️⃣ Convert Temperatures of Selected Day
+4️⃣ Delete Existing Temperature Record
 
-![Convert Temperature](Images/convert_temperature.png)
-
----
-
-## 6️⃣ Show Temperature Summary - All Days
-
-![Summary Report](Images/summary_report.png)
+![Delete Record](Images/Option-4-DeleteExistingTemperatureRecord-Result.png)
 
 ---
 
-## 12️⃣ Show Temperature Trend
+5️⃣ Convert Temperatures of Selected Day
 
-![Trend Analysis](Images/trend_analysis.png)
+![Convert Temperature](Images/Option-5-ConvertTemperaturesScaleOfSelectedDay.png)
+
+---
+
+6️⃣ Show Temperature Summary - All Days
+
+![Summary Report](Images/Option-6-ShowTemeraturesSummary-AllDays-Result.png)
+
+---
+
+7️⃣ Check If Temperatures Are Above a Threshold (Selected Day) 
+
+![Check Threshold](Images/Option-7-CheckTemperaturesAboveaGivenThreshold.png)
+
+----
+
+8️⃣ Average Temperature - All Days  
+![Average Temperature](Images/Option-8-AverageTemperature-AllDays.png)
+
+---
+
+9️⃣ Show Hottest Day  
+![Hottest Day](Images/Option-9-ShowHottestDay.png)
+
+---
+
+🔟 Extreme Days Above a Threshold  
+![Extreme Days](Images/Option-10-ShowDayswithRecordedTemperatureAboveaThreshold.png)
+
+---
+
+1️⃣1️⃣ Show Temperature Ranges - All Days  
+![Temperature Ranges](Images/Option-11-ShowTemperatureRanges-AllDays.png)
+
+---
+
+1️⃣2️⃣ Show Temperature Trend  
+![Temperature Trend](Images/Option-12-ShowTemperatureTrend.png)
+
+---
+
+1️⃣3️⃣ Detect Spike  
+![Detect Spike](Images/Option-13-DetectSpike.png)
+
+---
+
+1️⃣4️⃣ Exit  
+![Exit](Images/Option-14-Exit.png)
+
 
 
 ## ⚙️ **How to Run Locally**
