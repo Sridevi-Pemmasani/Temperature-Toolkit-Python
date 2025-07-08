@@ -47,3 +47,36 @@ Temperature-Toolkit/
     - **crud_temperature_records.py**: Manages create, read, update, and delete (CRUD) operations.
     - **generalutils.py**: Utility functions shared across different modules.
     - **record.py**: Defines the structure of a temperature record using a class.
+## ▶️ **Sample Usage**
+After running main.py, you will see a menu-driven interface like:
+Choose an operation:
+1. Create New Temperature Record
+2. View All Temperature Records
+3. Modify Existing Temperature Record
+4. Delete Existing Temperature Record
+5. Convert Temperatures of Selected Day
+6. Show Temperature Summary - All Days
+7. Check If Temperatures Are Above a Threshold (Selected Day)
+8. Average Temperature - All Days
+9. Show Hottest Day
+10. Extreme Days Above a Threshold
+11. Show Temperature Ranges - All Days
+12. Show Temperature Trend
+13. Detect Spike
+14. Exit
+🖊️ Just type the number for the desired operation and follow the prompts!
+## ⚙️ **How to Run Locally**
+**1. Clone the repository**
+git clone https://github.com/yourusername/temperature-toolkit.git
+cd temperature-toolkit
+**2. Run the main script**
+python main.py
+**3. (Optional) Open the Jupyter Notebook for testing**
+jupyter notebook Test-Temperature-Toolkit.ipynb
+## 📚 **Learning Outcomes**
+This project helped me:
+
+🧠 Strengthen core Python skills
+📋 Practice list-based data handling
+🔁 Build reusable, modular code using OOP principles
+💻 Design a user-friendly, menu-driven CLI tool
