@@ -68,12 +68,12 @@ Choose an operation:
 🖊️ Just type the number for the desired operation and follow the prompts!
 ## ⚙️ **How to Run Locally**
 1. **Clone the repository**
-git clone https://github.com/yourusername/temperature-toolkit.git
-cd temperature-toolkit
+    1. git clone https://github.com/yourusername/temperature-toolkit.git
+    2. cd temperature-toolkit
 2. **Run the main script**
-python main.py
+    python main.py
 **3. (Optional) Open the Jupyter Notebook for testing**
-jupyter notebook Test-Temperature-Toolkit.ipynb
+    jupyter notebook Test-Temperature-Toolkit.ipynb
 ## 📚 **Learning Outcomes**
 This project helped me:
 
