@@ -39,12 +39,9 @@ Temperature-Toolkit/
 
 ## 📄 **File Description**
 ```text
-| `main.py`                                         
-| Entry point for the CLI program. Displays the menu and handles user input. |
-| `Test-Temperature-Toolkit.ipynb`                  
-| Jupyter notebook to test and demonstrate toolkit functionality.            |
-| `temperature_toolkit/__init__.py`                 
-| Initializes the package so it can be imported as a module.                 |
+`main.py`: Entry point for the CLI program. Displays the menu and handles user input.
+`Test-Temperature-Toolkit.ipynb`: Jupyter notebook to test and demonstrate toolkit functionality.
+`temperature_toolkit/__init__.py`: Initializes the package so it can be imported as a module.
 | `temperature_toolkit/analytics.py`                | Analyzes temperature records (e.g., averages, trends, spikes).             |
 | `temperature_toolkit/converter.py`                | Handles temperature unit conversion logic.                                 |
 | `temperature_toolkit/crud_temperature_records.py` | Manages create, read, update, and delete (CRUD) operations.                |
