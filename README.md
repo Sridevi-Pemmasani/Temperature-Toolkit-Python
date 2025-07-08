@@ -66,6 +66,43 @@ Choose an operation:
 14. Exit
 
 🖊️ Just type the number for the desired operation and follow the prompts!
+
+## 📸 **Feature Demonstration**
+## 1️⃣ Create New Temperature Record
+
+![Create New Temperature Record](Images/Option-1-Create a new Temperature Record.png)
+
+---
+
+## 2️⃣ View All Temperature Records
+
+![View All Records](Images/view_records.png)
+
+---
+
+## 3️⃣ Modify Existing Temperature Record
+
+![Modify Record](Images/modify_record.png)
+
+---
+
+## 5️⃣ Convert Temperatures of Selected Day
+
+![Convert Temperature](Images/convert_temperature.png)
+
+---
+
+## 6️⃣ Show Temperature Summary - All Days
+
+![Summary Report](Images/summary_report.png)
+
+---
+
+## 12️⃣ Show Temperature Trend
+
+![Trend Analysis](Images/trend_analysis.png)
+
+
 ## ⚙️ **How to Run Locally**
 1. **Clone the repository:**
     1. git clone https://github.com/username/temperature-toolkit.git
