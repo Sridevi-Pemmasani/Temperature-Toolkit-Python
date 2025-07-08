@@ -54,7 +54,7 @@ Choose an operation:
 2. View All Temperature Records
 3. Modify Existing Temperature Record
 4. Delete Existing Temperature Record
-5. Convert Temperatures of Selected Day
+5. Convert Temperatures to different scale of Selected Day
 6. Show Temperature Summary - All Days
 7. Check If Temperatures Are Above a Threshold (Selected Day)
 8. Average Temperature - All Days
@@ -64,6 +64,7 @@ Choose an operation:
 12. Show Temperature Trend
 13. Detect Spike
 14. Exit
+
 🖊️ Just type the number for the desired operation and follow the prompts!
 ## ⚙️ **How to Run Locally**
 **1. Clone the repository**
