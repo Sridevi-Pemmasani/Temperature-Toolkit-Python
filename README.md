@@ -77,7 +77,10 @@ Choose an operation:
 ## 📚 **Learning Outcomes**
 This project helped me:
 
-- 🧠 Strengthen core Python skills
-- 📋 Practice list-based data handling
-- 🔁 Build reusable, modular code using OOP principles
-- 💻 Design a user-friendly, menu-driven CLI tool
+🧠 Strengthen core Python skills
+
+📋 Practice list-based data handling
+
+🔁 Build reusable, modular code using OOP principles
+
+💻 Design a user-friendly, menu-driven CLI tool
