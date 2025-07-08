@@ -38,7 +38,7 @@ Temperature-Toolkit/
 
 
 ## 📄 **File Description**
-**main.py**: Entry point for the CLI program. Displays the menu and handles user input.
+- **main.py**: Entry point for the CLI program. Displays the menu and handles user input.
 **Test-Temperature-Toolkit.ipynb**: Jupyter notebook to test and demonstrate toolkit functionality.
 **temperature_toolkit/__init__.py**: Initializes the package so it can be imported as a module.
 **temperature_toolkit**
