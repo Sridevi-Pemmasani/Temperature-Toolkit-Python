@@ -34,3 +34,4 @@ Temperature-Toolkit/
 │   ├── crud_temperature_records.py           # CRUD operations for temperature records
 │   ├── generalutils.py                       # Shared utility/helper functions
 │   ├── record.py                             # Defines the Temperature Record class
+📝 Note: .ipynb_checkpoints/ and __pycache__/ are auto-generated and can be ignored.
